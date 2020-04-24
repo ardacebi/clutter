@@ -1,2 +1,2 @@
 # Flutter Examples
-Clutter is a collection of clones of popular apps made with Flutter.
+A collection of examples and clones of popular apps made with Flutter.
