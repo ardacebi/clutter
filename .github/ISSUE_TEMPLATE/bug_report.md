@@ -1,11 +1,14 @@
 ---
 name: Bug report
-about: Create a report on one of the examples to help us improve
-title: 'Bug: [APPNAME]'
-labels: ''
+about: Create a report on one of the examples
+title: "[Briefly describe the bug here]"
+labels: bug
 assignees: ''
 
 ---
+
+**Which example or clone is this report about?**
+e.g. Calculator
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -28,6 +31,11 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+
+**Flutter doctor output**
+```
+[paste here]
+```
 
 **Additional context**
 Add any other context about the problem here.
