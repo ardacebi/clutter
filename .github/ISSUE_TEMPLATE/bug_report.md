@@ -1,14 +1,11 @@
 ---
 name: Bug report
-about: Create a report on one of the examples
+about: Create a bug report
 title: "[Briefly describe the bug here]"
 labels: bug
 assignees: ''
 
 ---
-
-**Which example or clone is this report about?**
-e.g. Calculator
 
 **Describe the bug**
 A clear and concise description of what the bug is.
